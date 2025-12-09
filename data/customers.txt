@@ -1,0 +1,1079 @@
+================================================================================
+CUSTOMER DATABASE - RAJASTHAN ROYAL HERITAGE TOURS
+================================================================================
+
+================================================================================
+CUSTOMER 1: AMIT SHARMA
+================================================================================
+
+PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Amit Sharma
+Customer ID: CUST001
+Phone: +91-9876543001
+Email: amit.sharma@gmail.com
+Address: 45, Koregaon Park, Pune 411001
+Date of Birth: 15-March-1985
+ID Proof: Passport - K1234567
+
+BOOKING DETAILS
+--------------------------------------------------------------------------------
+Booking ID: BK-2024-001
+Package: Rajasthan Royal Heritage Tour - 8 Days / 7 Nights
+Booking Date: 01-December-2024
+Travel Dates: 15-December-2024 to 22-December-2024
+Number of Travelers: 2 (with spouse Priya Sharma)
+Room Type: Double Sharing - Deluxe
+Total Amount: Rs 90,000
+Payment Status: Fully Paid
+Payment Mode: Credit Card
+
+TRIP STATUS
+--------------------------------------------------------------------------------
+Current Day: Day 3
+Current Location: Pushkar
+Current Hotel: Pushkar Palace
+Today's Activities:
+  - Morning: Brahma Temple visit
+  - Afternoon: Pushkar Lake ghats walk
+  - Evening: Aarti at 6 PM
+
+ITINERARY REFERENCE
+--------------------------------------------------------------------------------
+Day 1 (15-Dec): Pune to Jaipur - Amber Fort, Hawa Mahal, City Palace
+Day 2 (16-Dec): Jaipur - Nahargarh Fort, Jaigarh Fort, Chokhi Dhani dinner
+Day 3 (17-Dec): Jaipur to Pushkar - Ajmer Dargah, Brahma Temple [TODAY]
+Day 4 (18-Dec): Pushkar to Jodhpur - Mehrangarh Fort, Jaswant Thada
+Day 5 (19-Dec): Jodhpur - Village Safari, Umaid Bhawan Palace
+Day 6 (20-Dec): Jodhpur to Udaipur - Ranakpur Temple, Lake Pichola boat
+Day 7 (21-Dec): Udaipur - City Palace, Fateh Sagar Lake
+Day 8 (22-Dec): Udaipur to Pune - Departure
+
+PREFERENCES
+--------------------------------------------------------------------------------
+- Vegetarian food preferred
+- Interested in photography
+- Early morning riser
+- Prefers AC transport
+- Budget: Premium
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Rahul Sharma (Brother)
+Phone: +91-9876543002
+
+NOTES
+--------------------------------------------------------------------------------
+- Celebrating 10th wedding anniversary
+- Requested anniversary cake on Day 6 in Udaipur
+- Allergic to peanuts
+
+================================================================================
+CUSTOMER 2: SNEHA PATEL
+================================================================================
+
+PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Sneha Patel
+Customer ID: CUST002
+Phone: +91-9876543003
+Email: sneha.patel@yahoo.com
+Address: 12, Viman Nagar, Pune 411014
+Date of Birth: 22-July-1990
+ID Proof: Aadhar - 1234 5678 9012
+
+BOOKING DETAILS
+--------------------------------------------------------------------------------
+Booking ID: BK-2024-002
+Package: Rajasthan Royal Heritage Tour - 8 Days / 7 Nights
+Booking Date: 05-December-2024
+Travel Dates: 18-December-2024 to 25-December-2024
+Number of Travelers: 4 (with parents and sister)
+Room Type: Two Double Rooms - Deluxe
+Total Amount: Rs 1,80,000
+Payment Status: Fully Paid
+Payment Mode: Bank Transfer
+
+TRIP STATUS
+--------------------------------------------------------------------------------
+Current Day: Not Started (Upcoming)
+Travel Starts: 18-December-2024
+Days Until Trip: 9 days
+
+ITINERARY REFERENCE
+--------------------------------------------------------------------------------
+Day 1 (18-Dec): Pune to Jaipur
+Day 2 (19-Dec): Jaipur full day
+Day 3 (20-Dec): Jaipur to Pushkar
+Day 4 (21-Dec): Pushkar to Jodhpur
+Day 5 (22-Dec): Jodhpur full day
+Day 6 (23-Dec): Jodhpur to Udaipur
+Day 7 (24-Dec): Udaipur full day (Christmas Eve)
+Day 8 (25-Dec): Udaipur to Pune (Christmas)
+
+PREFERENCES
+--------------------------------------------------------------------------------
+- Mix of veg and non-veg food
+- Mother has mild knee issues - needs assistance at forts
+- Father interested in history and architecture
+- Sister is a fashion blogger - wants shopping time
+- Budget: Standard
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Rajesh Patel (Uncle)
+Phone: +91-9876543004
+
+NOTES
+--------------------------------------------------------------------------------
+- First family vacation in 3 years
+- Want Christmas celebration in Udaipur
+- Need wheelchair assistance at airports
+
+================================================================================
+CUSTOMER 3: RAJESH KUMAR
+================================================================================
+
+PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Rajesh Kumar
+Customer ID: CUST003
+Phone: +91-9876543005
+Email: rajesh.kumar@hotmail.com
+Address: 78, Baner, Pune 411045
+Date of Birth: 03-November-1978
+ID Proof: Passport - L7654321
+
+BOOKING DETAILS
+--------------------------------------------------------------------------------
+Booking ID: BK-2024-003
+Package: Rajasthan Royal Heritage Tour - 8 Days / 7 Nights
+Booking Date: 10-November-2024
+Travel Dates: 10-December-2024 to 17-December-2024
+Number of Travelers: 1 (Solo)
+Room Type: Single Room - Superior
+Total Amount: Rs 57,000
+Payment Status: Fully Paid
+Payment Mode: UPI
+
+TRIP STATUS
+--------------------------------------------------------------------------------
+Current Day: Day 8 (Last Day)
+Current Location: Udaipur Airport
+Today's Activities:
+  - 06:30 AM: Early checkout
+  - 09:45 AM: Flight to Pune
+  - 11:30 AM: Arrival in Pune
+
+ITINERARY REFERENCE
+--------------------------------------------------------------------------------
+Day 1 (10-Dec): Pune to Jaipur [COMPLETED]
+Day 2 (11-Dec): Jaipur full day [COMPLETED]
+Day 3 (12-Dec): Jaipur to Pushkar [COMPLETED]
+Day 4 (13-Dec): Pushkar to Jodhpur [COMPLETED]
+Day 5 (14-Dec): Jodhpur full day [COMPLETED]
+Day 6 (15-Dec): Jodhpur to Udaipur [COMPLETED]
+Day 7 (16-Dec): Udaipur full day [COMPLETED]
+Day 8 (17-Dec): Udaipur to Pune [TODAY - DEPARTURE]
+
+PREFERENCES
+--------------------------------------------------------------------------------
+- Non-vegetarian food
+- Professional photographer
+- Night owl
+- Prefers heritage hotels
+- Budget: Premium
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Sunita Kumar (Wife)
+Phone: +91-9876543006
+
+NOTES
+--------------------------------------------------------------------------------
+- Travel writer researching for article
+- Requested extra time at each location
+- Collected business cards of all guides
+
+================================================================================
+CUSTOMER 4: MEERA IYER
+================================================================================
+
+PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Meera Iyer
+Customer ID: CUST004
+Phone: +91-9876543007
+Email: meera.iyer@gmail.com
+Address: 23, Aundh, Pune 411007
+Date of Birth: 18-September-1992
+ID Proof: Aadhar - 2345 6789 0123
+
+BOOKING DETAILS
+--------------------------------------------------------------------------------
+Booking ID: BK-2024-004
+Package: Rajasthan Royal Heritage Tour - 8 Days / 7 Nights
+Booking Date: 15-November-2024
+Travel Dates: 20-December-2024 to 27-December-2024
+Number of Travelers: 2 (with friend Kavita)
+Room Type: Twin Sharing - Deluxe
+Total Amount: Rs 90,000
+Payment Status: Partial (Rs 45,000 paid, Rs 45,000 pending)
+Payment Mode: EMI
+
+TRIP STATUS
+--------------------------------------------------------------------------------
+Current Day: Not Started (Upcoming)
+Travel Starts: 20-December-2024
+Days Until Trip: 11 days
+
+PREFERENCES
+--------------------------------------------------------------------------------
+- Pure vegetarian (South Indian)
+- Interested in textiles and crafts
+- Morning person
+- Prefers boutique hotels
+- Budget: Standard
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Venkatesh Iyer (Father)
+Phone: +91-9876543008
+
+NOTES
+--------------------------------------------------------------------------------
+- Fashion designer by profession
+- Want to visit textile workshops
+- Need extra shopping time
+
+================================================================================
+CUSTOMER 5: VIKRAM SINGH
+================================================================================
+
+PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Vikram Singh
+Customer ID: CUST005
+Phone: +91-9876543009
+Email: vikram.singh@outlook.com
+Address: 56, Hinjewadi, Pune 411057
+Date of Birth: 07-January-1982
+ID Proof: Passport - M8765432
+
+BOOKING DETAILS
+--------------------------------------------------------------------------------
+Booking ID: BK-2024-005
+Package: Rajasthan Royal Heritage Tour - 8 Days / 7 Nights
+Booking Date: 20-November-2024
+Travel Dates: 12-December-2024 to 19-December-2024
+Number of Travelers: 3 (with wife Anita and son Arjun, age 8)
+Room Type: Triple Sharing - Family Suite
+Total Amount: Rs 1,25,000
+Payment Status: Fully Paid
+Payment Mode: Credit Card
+
+TRIP STATUS
+--------------------------------------------------------------------------------
+Current Day: Day 6
+Current Location: Udaipur (en route from Jodhpur)
+Current Activity: Visiting Ranakpur Jain Temple
+Expected Arrival: 3:30 PM at The Lalit Laxmi Vilas Palace
+
+ITINERARY REFERENCE
+--------------------------------------------------------------------------------
+Day 1 (12-Dec): Pune to Jaipur [COMPLETED]
+Day 2 (13-Dec): Jaipur full day [COMPLETED]
+Day 3 (14-Dec): Jaipur to Pushkar [COMPLETED]
+Day 4 (15-Dec): Pushkar to Jodhpur [COMPLETED]
+Day 5 (16-Dec): Jodhpur full day [COMPLETED]
+Day 6 (17-Dec): Jodhpur to Udaipur [TODAY - EN ROUTE]
+Day 7 (18-Dec): Udaipur full day
+Day 8 (19-Dec): Udaipur to Pune
+
+PREFERENCES
+--------------------------------------------------------------------------------
+- Mixed food (kid likes pizza too)
+- Kid-friendly activities needed
+- Early dinner preferred (before 8 PM)
+- AC transport essential
+- Budget: Premium
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Harpreet Singh (Brother)
+Phone: +91-9876543010
+
+NOTES
+--------------------------------------------------------------------------------
+- Son has motion sickness - need breaks during drives
+- Carry motion sickness medicines
+- Kid interested in castles and forts
+
+================================================================================
+CUSTOMER 6: POOJA DESHMUKH
+================================================================================
+
+PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Pooja Deshmukh
+Customer ID: CUST006
+Phone: +91-9876543011
+Email: pooja.deshmukh@gmail.com
+Address: 89, Wakad, Pune 411057
+Date of Birth: 25-April-1995
+ID Proof: Aadhar - 3456 7890 1234
+
+BOOKING DETAILS
+--------------------------------------------------------------------------------
+Booking ID: BK-2024-006
+Package: Rajasthan Royal Heritage Tour - 8 Days / 7 Nights
+Booking Date: 25-November-2024
+Travel Dates: 22-December-2024 to 29-December-2024
+Number of Travelers: 6 (Group of friends)
+Room Type: Three Double Rooms
+Total Amount: Rs 2,70,000
+Payment Status: Fully Paid
+Payment Mode: Multiple UPI contributions
+
+TRIP STATUS
+--------------------------------------------------------------------------------
+Current Day: Not Started (Upcoming)
+Travel Starts: 22-December-2024
+Days Until Trip: 13 days
+
+PREFERENCES
+--------------------------------------------------------------------------------
+- Mix of veg and non-veg
+- Night parties and nightlife
+- Late risers
+- Want adventure activities
+- Budget: Standard
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Sanjay Deshmukh (Father)
+Phone: +91-9876543012
+
+NOTES
+--------------------------------------------------------------------------------
+- Girls' trip / bachelorette for friend's wedding
+- Need suggestions for nightlife in each city
+- Want camel safari and zip-lining if available
+
+================================================================================
+CUSTOMER 7: SURESH MENON
+================================================================================
+
+PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Suresh Menon
+Customer ID: CUST007
+Phone: +91-9876543013
+Email: suresh.menon@techcorp.com
+Address: 34, Magarpatta, Pune 411028
+Date of Birth: 12-June-1970
+ID Proof: Passport - N9876543
+
+BOOKING DETAILS
+--------------------------------------------------------------------------------
+Booking ID: BK-2024-007
+Package: Rajasthan Royal Heritage Tour - 8 Days / 7 Nights
+Booking Date: 01-December-2024
+Travel Dates: 14-December-2024 to 21-December-2024
+Number of Travelers: 2 (with wife Lakshmi)
+Room Type: Double Sharing - Premium Suite
+Total Amount: Rs 1,10,000
+Payment Status: Fully Paid
+Payment Mode: Corporate Card
+
+TRIP STATUS
+--------------------------------------------------------------------------------
+Current Day: Day 4
+Current Location: Jodhpur
+Current Hotel: Vivanta by Taj
+Today's Activities:
+  - Morning: Travel from Pushkar
+  - Afternoon: Mehrangarh Fort
+  - Evening: Jaswant Thada, Clock Tower Market
+
+ITINERARY REFERENCE
+--------------------------------------------------------------------------------
+Day 1 (14-Dec): Pune to Jaipur [COMPLETED]
+Day 2 (15-Dec): Jaipur full day [COMPLETED]
+Day 3 (16-Dec): Jaipur to Pushkar [COMPLETED]
+Day 4 (17-Dec): Pushkar to Jodhpur [TODAY]
+Day 5 (18-Dec): Jodhpur full day
+Day 6 (19-Dec): Jodhpur to Udaipur
+Day 7 (20-Dec): Udaipur full day
+Day 8 (21-Dec): Udaipur to Pune
+
+PREFERENCES
+--------------------------------------------------------------------------------
+- Vegetarian (Jain food if possible)
+- Senior citizen (wife) - need accessible rooms
+- Medical facilities nearby preferred
+- Quiet hotels preferred
+- Budget: Luxury
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Arun Menon (Son)
+Phone: +91-9876543014
+
+NOTES
+--------------------------------------------------------------------------------
+- Retirement celebration trip
+- Wife has diabetes - need sugar-free options
+- Both have blood pressure medication
+
+================================================================================
+CUSTOMER 8: NEHA JOSHI
+================================================================================
+
+PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Neha Joshi
+Customer ID: CUST008
+Phone: +91-9876543015
+Email: neha.joshi@startup.io
+Address: 67, Kharadi, Pune 411014
+Date of Birth: 30-October-1988
+ID Proof: Aadhar - 4567 8901 2345
+
+BOOKING DETAILS
+--------------------------------------------------------------------------------
+Booking ID: BK-2024-008
+Package: Rajasthan Royal Heritage Tour - 8 Days / 7 Nights
+Booking Date: 28-November-2024
+Travel Dates: 16-December-2024 to 23-December-2024
+Number of Travelers: 2 (with husband Nikhil)
+Room Type: Double Sharing - Honeymoon Suite
+Total Amount: Rs 1,20,000
+Payment Status: Fully Paid
+Payment Mode: Credit Card
+
+TRIP STATUS
+--------------------------------------------------------------------------------
+Current Day: Day 2
+Current Location: Jaipur
+Current Hotel: Clarks Amer
+Today's Activities:
+  - Morning: Nahargarh Fort for sunrise
+  - Afternoon: Jaigarh Fort, Albert Hall Museum
+  - Evening: Chokhi Dhani dinner
+
+ITINERARY REFERENCE
+--------------------------------------------------------------------------------
+Day 1 (16-Dec): Pune to Jaipur [COMPLETED]
+Day 2 (17-Dec): Jaipur full day [TODAY]
+Day 3 (18-Dec): Jaipur to Pushkar
+Day 4 (19-Dec): Pushkar to Jodhpur
+Day 5 (20-Dec): Jodhpur full day
+Day 6 (21-Dec): Jodhpur to Udaipur
+Day 7 (22-Dec): Udaipur full day
+Day 8 (23-Dec): Udaipur to Pune
+
+PREFERENCES
+--------------------------------------------------------------------------------
+- Vegetarian
+- Romantic setups at dinner
+- Candlelight dinners
+- Sunrise/sunset points
+- Budget: Luxury
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Ramesh Joshi (Father)
+Phone: +91-9876543016
+
+NOTES
+--------------------------------------------------------------------------------
+- Honeymoon trip
+- Arranged special candlelight dinner at Lake Palace view restaurant
+- Want hot air balloon if available
+
+================================================================================
+CUSTOMER 9: ARUN KAPOOR
+================================================================================
+
+PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Arun Kapoor
+Customer ID: CUST009
+Phone: +91-9876543017
+Email: arun.kapoor@gmail.com
+Address: 90, Pimple Saudagar, Pune 411027
+Date of Birth: 05-February-1975
+ID Proof: Passport - P1234567
+
+BOOKING DETAILS
+--------------------------------------------------------------------------------
+Booking ID: BK-2024-009
+Package: Rajasthan Royal Heritage Tour - 8 Days / 7 Nights
+Booking Date: 02-December-2024
+Travel Dates: 19-December-2024 to 26-December-2024
+Number of Travelers: 5 (Family of 5 - 2 adults, 3 kids)
+Room Type: Two Connecting Rooms - Family
+Total Amount: Rs 2,00,000
+Payment Status: Fully Paid
+Payment Mode: Bank Transfer
+
+TRIP STATUS
+--------------------------------------------------------------------------------
+Current Day: Not Started (Upcoming)
+Travel Starts: 19-December-2024
+Days Until Trip: 10 days
+
+PREFERENCES
+--------------------------------------------------------------------------------
+- Non-vegetarian
+- Kid-friendly restaurants
+- Pool access at hotels
+- Minimal walking for kids
+- Budget: Premium
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Vinod Kapoor (Brother)
+Phone: +91-9876543018
+
+NOTES
+--------------------------------------------------------------------------------
+- Kids ages: 12, 9, and 5
+- Need high chairs and cribs if required
+- Kids' entertainment activities needed
+- Christmas celebration planning
+
+================================================================================
+CUSTOMER 10: DEEPIKA REDDY
+================================================================================
+
+PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Deepika Reddy
+Customer ID: CUST010
+Phone: +91-9876543019
+Email: deepika.reddy@corporate.com
+Address: 12, Hadapsar, Pune 411028
+Date of Birth: 17-August-1983
+ID Proof: Aadhar - 5678 9012 3456
+
+BOOKING DETAILS
+--------------------------------------------------------------------------------
+Booking ID: BK-2024-010
+Package: Rajasthan Royal Heritage Tour - 8 Days / 7 Nights
+Booking Date: 30-November-2024
+Travel Dates: 11-December-2024 to 18-December-2024
+Number of Travelers: 1 (Solo female traveler)
+Room Type: Single Room - Deluxe
+Total Amount: Rs 57,000
+Payment Status: Fully Paid
+Payment Mode: UPI
+
+TRIP STATUS
+--------------------------------------------------------------------------------
+Current Day: Day 7
+Current Location: Udaipur
+Current Hotel: The Lalit Laxmi Vilas Palace
+Today's Activities:
+  - Morning: City Palace visit
+  - Afternoon: Fateh Sagar Lake
+  - Evening: Monsoon Palace sunset
+
+ITINERARY REFERENCE
+--------------------------------------------------------------------------------
+Day 1 (11-Dec): Pune to Jaipur [COMPLETED]
+Day 2 (12-Dec): Jaipur full day [COMPLETED]
+Day 3 (13-Dec): Jaipur to Pushkar [COMPLETED]
+Day 4 (14-Dec): Pushkar to Jodhpur [COMPLETED]
+Day 5 (15-Dec): Jodhpur full day [COMPLETED]
+Day 6 (16-Dec): Jodhpur to Udaipur [COMPLETED]
+Day 7 (17-Dec): Udaipur full day [TODAY]
+Day 8 (18-Dec): Udaipur to Pune
+
+PREFERENCES
+--------------------------------------------------------------------------------
+- Vegetarian
+- Safety priority for solo female
+- Driver's contact always shared
+- Ground floor rooms preferred
+- Budget: Standard
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Srinivas Reddy (Father)
+Phone: +91-9876543020
+
+NOTES
+--------------------------------------------------------------------------------
+- Corporate retreat / personal time off
+- Interested in yoga and wellness
+- Want spa treatments at each hotel
+- Safety briefings completed
+
+================================================================================
+CUSTOMER 11: MANISH GUPTA
+================================================================================
+
+PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Manish Gupta
+Customer ID: CUST011
+Phone: +91-9876543021
+Email: manish.gupta@business.com
+Address: 45, Bavdhan, Pune 411021
+Date of Birth: 28-December-1980
+ID Proof: Passport - Q2345678
+
+BOOKING DETAILS
+--------------------------------------------------------------------------------
+Booking ID: BK-2024-011
+Package: Rajasthan Royal Heritage Tour - 8 Days / 7 Nights
+Booking Date: 03-December-2024
+Travel Dates: 25-December-2024 to 01-January-2025
+Number of Travelers: 4 (with wife, daughter 15, son 12)
+Room Type: Two Double Rooms - Family Suite
+Total Amount: Rs 1,80,000
+Payment Status: Partially Paid (Rs 1,00,000 paid)
+Payment Mode: Credit Card EMI
+
+TRIP STATUS
+--------------------------------------------------------------------------------
+Current Day: Not Started (Upcoming)
+Travel Starts: 25-December-2024
+Days Until Trip: 16 days
+
+PREFERENCES
+--------------------------------------------------------------------------------
+- North Indian food
+- Teenage-friendly activities
+- New Year celebration in Udaipur
+- Good WiFi at hotels
+- Budget: Premium
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Rakesh Gupta (Father)
+Phone: +91-9876543022
+
+NOTES
+--------------------------------------------------------------------------------
+- Christmas + New Year trip
+- Daughter preparing for board exams - need study time
+- Son interested in fort architecture
+- Planning New Year party at hotel
+
+================================================================================
+CUSTOMER 12: KAVITHA NAIR
+================================================================================
+
+PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Kavitha Nair
+Customer ID: CUST012
+Phone: +91-9876543023
+Email: kavitha.nair@gmail.com
+Address: 78, Pashan, Pune 411008
+Date of Birth: 09-May-1965
+ID Proof: Aadhar - 6789 0123 4567
+
+BOOKING DETAILS
+--------------------------------------------------------------------------------
+Booking ID: BK-2024-012
+Package: Rajasthan Royal Heritage Tour - 8 Days / 7 Nights
+Booking Date: 27-November-2024
+Travel Dates: 13-December-2024 to 20-December-2024
+Number of Travelers: 2 (with husband Krishnan Nair)
+Room Type: Double Sharing - Premium
+Total Amount: Rs 1,00,000
+Payment Status: Fully Paid
+Payment Mode: Bank Transfer
+
+TRIP STATUS
+--------------------------------------------------------------------------------
+Current Day: Day 5
+Current Location: Jodhpur
+Current Hotel: Vivanta by Taj
+Today's Activities:
+  - Morning: Bishnoi Village Safari
+  - Afternoon: Village lunch experience
+  - Evening: Umaid Bhawan Palace, Blue City walk
+
+ITINERARY REFERENCE
+--------------------------------------------------------------------------------
+Day 1 (13-Dec): Pune to Jaipur [COMPLETED]
+Day 2 (14-Dec): Jaipur full day [COMPLETED]
+Day 3 (15-Dec): Jaipur to Pushkar [COMPLETED]
+Day 4 (16-Dec): Pushkar to Jodhpur [COMPLETED]
+Day 5 (17-Dec): Jodhpur full day [TODAY]
+Day 6 (18-Dec): Jodhpur to Udaipur
+Day 7 (19-Dec): Udaipur full day
+Day 8 (20-Dec): Udaipur to Pune
+
+PREFERENCES
+--------------------------------------------------------------------------------
+- South Indian vegetarian
+- Senior-friendly pace
+- Rest breaks during day
+- Ground floor rooms
+- Budget: Standard
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Arun Nair (Son)
+Phone: +91-9876543024
+
+NOTES
+--------------------------------------------------------------------------------
+- Golden jubilee wedding anniversary celebration
+- Need anniversary cake on Day 7 (Udaipur)
+- Both have mild arthritis
+- Prefer slower pace
+
+================================================================================
+CUSTOMER 13: ROHIT SAXENA
+================================================================================
+
+PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Rohit Saxena
+Customer ID: CUST013
+Phone: +91-9876543025
+Email: rohit.saxena@corporate.in
+Address: 23, Kothrud, Pune 411038
+Date of Birth: 14-March-1987
+ID Proof: Passport - R3456789
+
+BOOKING DETAILS
+--------------------------------------------------------------------------------
+Booking ID: BK-2024-013
+Package: Rajasthan Royal Heritage Tour - 8 Days / 7 Nights
+Booking Date: 04-December-2024
+Travel Dates: 21-December-2024 to 28-December-2024
+Number of Travelers: 8 (Corporate team outing)
+Room Type: Four Double Rooms - Business
+Total Amount: Rs 3,60,000
+Payment Status: Fully Paid (Corporate booking)
+Payment Mode: Corporate Bank Transfer
+
+TRIP STATUS
+--------------------------------------------------------------------------------
+Current Day: Not Started (Upcoming)
+Travel Starts: 21-December-2024
+Days Until Trip: 12 days
+
+PREFERENCES
+--------------------------------------------------------------------------------
+- Mix food preferences
+- Team building activities
+- Group dinner experiences
+- Conference room at one hotel
+- Budget: Premium Corporate
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: HR Department - TechSolutions Pvt Ltd
+Phone: +91-20-12345678
+
+NOTES
+--------------------------------------------------------------------------------
+- Corporate team retreat
+- Need meeting room for 2 hours in Udaipur
+- Team dinner with award ceremony on Day 6
+- Various dietary restrictions in team
+
+================================================================================
+CUSTOMER 14: PRIYA CHATTERJEE
+================================================================================
+
+PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Priya Chatterjee
+Customer ID: CUST014
+Phone: +91-9876543027
+Email: priya.chatterjee@design.com
+Address: 56, Camp Area, Pune 411001
+Date of Birth: 21-November-1993
+ID Proof: Aadhar - 7890 1234 5678
+
+BOOKING DETAILS
+--------------------------------------------------------------------------------
+Booking ID: BK-2024-014
+Package: Rajasthan Royal Heritage Tour - 8 Days / 7 Nights
+Booking Date: 05-December-2024
+Travel Dates: 17-December-2024 to 24-December-2024
+Number of Travelers: 2 (with mother Sharmila)
+Room Type: Twin Sharing - Deluxe
+Total Amount: Rs 90,000
+Payment Status: Fully Paid
+Payment Mode: Debit Card
+
+TRIP STATUS
+--------------------------------------------------------------------------------
+Current Day: Day 1
+Current Location: Jaipur (Just arrived)
+Current Hotel: Clarks Amer
+Today's Activities:
+  - 08:15 AM: Arrived in Jaipur
+  - Morning: Check-in, breakfast
+  - Afternoon: Amber Fort
+  - Evening: Hawa Mahal, City Palace, Jantar Mantar
+
+ITINERARY REFERENCE
+--------------------------------------------------------------------------------
+Day 1 (17-Dec): Pune to Jaipur [TODAY - JUST STARTED]
+Day 2 (18-Dec): Jaipur full day
+Day 3 (19-Dec): Jaipur to Pushkar
+Day 4 (20-Dec): Pushkar to Jodhpur
+Day 5 (21-Dec): Jodhpur full day
+Day 6 (22-Dec): Jodhpur to Udaipur
+Day 7 (23-Dec): Udaipur full day
+Day 8 (24-Dec): Udaipur to Pune (Christmas Eve)
+
+PREFERENCES
+--------------------------------------------------------------------------------
+- Bengali vegetarian (fish ok)
+- Mother is 60+ needs slower pace
+- Interested in art and architecture
+- Photography enthusiast
+- Budget: Standard
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Sanjay Chatterjee (Brother)
+Phone: +91-9876543028
+
+NOTES
+--------------------------------------------------------------------------------
+- Mother-daughter trip
+- Mother's first time in Rajasthan
+- Want to buy Rajasthani sarees
+- Mother needs rest time after lunch
+
+================================================================================
+CUSTOMER 15: KARAN MALHOTRA
+================================================================================
+
+PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Karan Malhotra
+Customer ID: CUST015
+Phone: +91-9876543029
+Email: karan.malhotra@influencer.in
+Address: 89, Kalyani Nagar, Pune 411006
+Date of Birth: 08-September-1996
+ID Proof: Passport - S4567890
+
+BOOKING DETAILS
+--------------------------------------------------------------------------------
+Booking ID: BK-2024-015
+Package: Rajasthan Royal Heritage Tour - 8 Days / 7 Nights
+Booking Date: 06-December-2024
+Travel Dates: 23-December-2024 to 30-December-2024
+Number of Travelers: 2 (with partner Riya)
+Room Type: Double Sharing - Heritage Suite
+Total Amount: Rs 1,30,000
+Payment Status: Partial (Rs 80,000 paid)
+Payment Mode: Credit Card
+
+TRIP STATUS
+--------------------------------------------------------------------------------
+Current Day: Not Started (Upcoming)
+Travel Starts: 23-December-2024
+Days Until Trip: 14 days
+
+PREFERENCES
+--------------------------------------------------------------------------------
+- Vegan food options
+- Instagram-worthy locations
+- Rooftop restaurants
+- Boutique hotels
+- Budget: Luxury
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Sanjay Malhotra (Father)
+Phone: +91-9876543030
+
+NOTES
+--------------------------------------------------------------------------------
+- Travel influencer with 500K followers
+- Will be creating content during trip
+- Need best photo locations at each spot
+- Drone photography permission needed
+- Planning proposal on Day 6 at Lake Pichola - KEEP SECRET
+
+================================================================================
+CUSTOMER 16: TEST USER A
+================================================================================
+
+PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Test User A
+Customer ID: CUST016
+Phone: +91-9075910505
+Email: testusera@test.com
+Address: 100, Test Location, Pune 411001
+Date of Birth: 01-January-1990
+ID Proof: Aadhar - 1111 2222 3333
+
+BOOKING DETAILS
+--------------------------------------------------------------------------------
+Booking ID: BK-2024-016
+Package: Rajasthan Royal Heritage Tour - 8 Days / 7 Nights
+Booking Date: 01-December-2024
+Travel Dates: 09-December-2024 to 16-December-2024
+Number of Travelers: 1 (Solo)
+Room Type: Single Room - Deluxe
+Total Amount: Rs 57,000
+Payment Status: Fully Paid
+Payment Mode: UPI
+
+TRIP STATUS
+--------------------------------------------------------------------------------
+Current Day: Day 1
+Current Location: Jaipur
+Current Hotel: Clarks Amer
+Today's Activities:
+  - 08:15 AM: Arrived in Jaipur
+  - Morning: Check-in, breakfast
+  - Afternoon: Amber Fort visit (11:30 AM - 2:00 PM)
+  - Evening: Hawa Mahal, City Palace, Jantar Mantar
+
+ITINERARY REFERENCE
+--------------------------------------------------------------------------------
+Day 1 (09-Dec): Pune to Jaipur - Amber Fort, Hawa Mahal, City Palace [TODAY]
+Day 2 (10-Dec): Jaipur - Nahargarh Fort, Jaigarh Fort, Chokhi Dhani dinner
+Day 3 (11-Dec): Jaipur to Pushkar - Ajmer Dargah, Brahma Temple
+Day 4 (12-Dec): Pushkar to Jodhpur - Mehrangarh Fort, Jaswant Thada
+Day 5 (13-Dec): Jodhpur - Village Safari, Umaid Bhawan Palace
+Day 6 (14-Dec): Jodhpur to Udaipur - Ranakpur Temple, Lake Pichola boat
+Day 7 (15-Dec): Udaipur - City Palace, Fateh Sagar Lake
+Day 8 (16-Dec): Udaipur to Pune - Departure
+
+DRIVER DETAILS
+--------------------------------------------------------------------------------
+Driver Name: Mr. Rajendra Singh
+Driver Contact: +91-9876543210
+Vehicle: White Toyota Innova Crysta
+Vehicle Number: RJ-14-TC-5678
+
+PREFERENCES
+--------------------------------------------------------------------------------
+- Vegetarian food preferred
+- Interested in photography
+- Early morning riser
+- Budget: Standard
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Test Emergency Contact
+Phone: +91-9999999999
+
+NOTES
+--------------------------------------------------------------------------------
+- Test account for development
+- Morning concierge feature testing
+
+================================================================================
+CUSTOMER 17: TEST USER B
+================================================================================
+
+PERSONAL INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Test User B
+Customer ID: CUST017
+Phone: +91-9850740750
+Email: testuserb@test.com
+Address: 200, Test Location, Pune 411002
+Date of Birth: 15-June-1985
+ID Proof: Aadhar - 4444 5555 6666
+
+BOOKING DETAILS
+--------------------------------------------------------------------------------
+Booking ID: BK-2024-017
+Package: Rajasthan Royal Heritage Tour - 8 Days / 7 Nights
+Booking Date: 01-December-2024
+Travel Dates: 09-December-2024 to 16-December-2024
+Number of Travelers: 2 (with spouse)
+Room Type: Double Sharing - Deluxe
+Total Amount: Rs 90,000
+Payment Status: Fully Paid
+Payment Mode: Credit Card
+
+TRIP STATUS
+--------------------------------------------------------------------------------
+Current Day: Day 1
+Current Location: Jaipur
+Current Hotel: Clarks Amer
+Today's Activities:
+  - 08:15 AM: Arrived in Jaipur
+  - Morning: Check-in, breakfast
+  - Afternoon: Amber Fort visit (11:30 AM - 2:00 PM)
+  - Evening: Hawa Mahal, City Palace, Jantar Mantar
+
+ITINERARY REFERENCE
+--------------------------------------------------------------------------------
+Day 1 (09-Dec): Pune to Jaipur - Amber Fort, Hawa Mahal, City Palace [TODAY]
+Day 2 (10-Dec): Jaipur - Nahargarh Fort, Jaigarh Fort, Chokhi Dhani dinner
+Day 3 (11-Dec): Jaipur to Pushkar - Ajmer Dargah, Brahma Temple
+Day 4 (12-Dec): Pushkar to Jodhpur - Mehrangarh Fort, Jaswant Thada
+Day 5 (13-Dec): Jodhpur - Village Safari, Umaid Bhawan Palace
+Day 6 (14-Dec): Jodhpur to Udaipur - Ranakpur Temple, Lake Pichola boat
+Day 7 (15-Dec): Udaipur - City Palace, Fateh Sagar Lake
+Day 8 (16-Dec): Udaipur to Pune - Departure
+
+DRIVER DETAILS
+--------------------------------------------------------------------------------
+Driver Name: Mr. Rajendra Singh
+Driver Contact: +91-9876543210
+Vehicle: White Toyota Innova Crysta
+Vehicle Number: RJ-14-TC-5678
+
+PREFERENCES
+--------------------------------------------------------------------------------
+- Non-vegetarian food
+- Interested in history
+- Late riser
+- Budget: Premium
+
+EMERGENCY CONTACT
+--------------------------------------------------------------------------------
+Name: Test Emergency Contact B
+Phone: +91-8888888888
+
+NOTES
+--------------------------------------------------------------------------------
+- Test account for development
+- Morning concierge feature testing
+
+================================================================================
+END OF CUSTOMER DATABASE
+================================================================================
+
+SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Customers: 15
+Total Bookings: 15
+Total Travelers: 48
+Total Revenue: Rs 21,69,000
+
+BOOKING STATUS BREAKDOWN
+--------------------------------------------------------------------------------
+Fully Paid: 12 bookings
+Partially Paid: 3 bookings (CUST004, CUST011, CUST015)
+
+CURRENT TRIP STATUS
+--------------------------------------------------------------------------------
+Completed Trips: 1 (CUST003 - departing today)
+Currently Traveling: 7 customers
+  - CUST001: Day 3 (Pushkar)
+  - CUST005: Day 6 (en route to Udaipur)
+  - CUST007: Day 4 (Jodhpur)
+  - CUST008: Day 2 (Jaipur)
+  - CUST010: Day 7 (Udaipur)
+  - CUST012: Day 5 (Jodhpur)
+  - CUST014: Day 1 (Jaipur - just arrived)
+Upcoming Trips: 7 customers
+
+================================================================================
