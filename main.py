@@ -7,6 +7,7 @@ Main FastAPI application integrating:
 - Agent with Travel Tools
 - Session-Based Conversational Memory (LangChain)
 - Voice Support (Whisper)
+- Admin Panel REST API
 """
 import os
 import hmac
@@ -15,7 +16,12 @@ import httpx
 from typing import Optional
 from contextlib import asynccontextmanager
 from fastapi import FastAPI, Request, Response, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv
+
+# Import database and API router
+from database import init_db, get_db, User, Message, SenderType, get_or_create_user, save_message, SessionLocal
+from api_router import router as admin_router
 
 # Load environment variables
 load_dotenv()
@@ -163,6 +169,11 @@ async def lifespan(app: FastAPI):
     """Application lifespan - initialize on startup"""
     # Startup
     print("Starting up Travel RAG Bot...")
+
+    # Initialize database
+    print("[Database] Initializing SQLAlchemy database...")
+    init_db()
+
     initialize_agent()
     yield
     # Shutdown
@@ -171,11 +182,26 @@ async def lifespan(app: FastAPI):
 
 # Create FastAPI app
 app = FastAPI(
-    title="Travel Business RAG WhatsApp Bot",
-    description="Rajasthan Tours RAG system with Knowledge Graph, Hybrid Retrieval, and Agent",
-    version="1.0.0",
+    title="Shri Travels RAG WhatsApp Bot",
+    description="Rajasthan Tours RAG system with Knowledge Graph, Hybrid Retrieval, Agent, and Admin Panel",
+    version="2.0.0",
     lifespan=lifespan
 )
+
+# CORS Configuration for Admin Panel
+ADMIN_ORIGINS = os.getenv("ADMIN_ORIGINS", "http://localhost:3000,http://localhost:5173").split(",")
+ADMIN_ORIGINS = [origin.strip() for origin in ADMIN_ORIGINS if origin.strip()]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=ADMIN_ORIGINS,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Include Admin API Router
+app.include_router(admin_router)
 
 
 @app.get("/")
@@ -391,6 +417,26 @@ async def handle_webhook(request: Request):
             return {"status": "agent_not_ready"}
 
         # =====================================================================
+        # DATABASE: Save incoming message and get/create user
+        # =====================================================================
+        db = SessionLocal()
+        try:
+            # Get or create user in database
+            db_user = get_or_create_user(db, session_id)
+
+            # Check if bot is paused for this user (admin takeover)
+            if db_user.bot_paused:
+                print(f"[BOT PAUSED] User {session_id} - Admin has taken over")
+                # Save user message but don't respond
+                save_message(db, db_user.id, text, SenderType.USER.value, message_id)
+                return {"status": "bot_paused", "message": "Admin has taken over this conversation"}
+
+            # Save user message to database
+            save_message(db, db_user.id, text, SenderType.USER.value, message_id)
+        finally:
+            db.close()
+
+        # =====================================================================
         # STEPS 2-5: Process with LangChain RAG Chain (session memory)
         # =====================================================================
         print(f"\nProcessing with LangChain RAG Chain (session: {session_id})...")
@@ -402,6 +448,16 @@ async def handle_webhook(request: Request):
             import traceback
             traceback.print_exc()
             response = f"I encountered an error processing your request. Please try rephrasing your question."
+
+        # =====================================================================
+        # DATABASE: Save bot response
+        # =====================================================================
+        db = SessionLocal()
+        try:
+            db_user = get_or_create_user(db, session_id)
+            save_message(db, db_user.id, response, SenderType.BOT.value)
+        finally:
+            db.close()
 
         # Send response
         await send_whatsapp_message(session_id, response)
