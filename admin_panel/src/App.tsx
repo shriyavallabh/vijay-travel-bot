@@ -5,8 +5,6 @@ import { Dashboard } from './pages/Dashboard';
 import { UserList, UserEdit } from './pages/Users';
 import { ChatInterface } from './pages/ChatInterface';
 import PeopleIcon from '@mui/icons-material/People';
-import ChatIcon from '@mui/icons-material/Chat';
-import DashboardIcon from '@mui/icons-material/Dashboard';
 
 const App = () => (
   <Admin

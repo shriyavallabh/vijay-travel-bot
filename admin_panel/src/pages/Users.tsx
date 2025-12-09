@@ -3,7 +3,6 @@ import {
   Datagrid,
   TextField,
   DateField,
-  BooleanField,
   EditButton,
   Edit,
   SimpleForm,
@@ -13,10 +12,8 @@ import {
   useRecordContext,
   useNotify,
   useRefresh,
-  Button,
   TopToolbar,
   FilterButton,
-  CreateButton,
   ExportButton,
   SearchInput,
 } from 'react-admin';
@@ -28,7 +25,7 @@ import { useNavigate } from 'react-router-dom';
 import { chatApi } from '../providers/dataProvider';
 
 // Custom Bot Status Toggle Field
-const BotStatusField = () => {
+const BotStatusField = ({ label: _label }: { label?: string }) => {
   const record = useRecordContext();
   const notify = useNotify();
   const refresh = useRefresh();
@@ -38,7 +35,7 @@ const BotStatusField = () => {
   const handleToggle = async (e: React.MouseEvent) => {
     e.stopPropagation();
     try {
-      const result = await chatApi.toggleBotStatus(record.id);
+      const result = await chatApi.toggleBotStatus(Number(record.id));
       notify(result.message, { type: 'success' });
       refresh();
     } catch (error) {
@@ -87,7 +84,7 @@ const ChatButton = () => {
 };
 
 // Trip Status Field with colored chip
-const TripStatusField = () => {
+const TripStatusField = ({ label: _label }: { label?: string }) => {
   const record = useRecordContext();
   if (!record) return null;
 
@@ -143,8 +140,8 @@ export const UserList = () => (
       <TextField source="id" label="ID" />
       <TextField source="name" label="Name" emptyText="Unknown" />
       <TextField source="phone" label="Phone" />
-      <TripStatusField source="trip_status" label="Trip Status" />
-      <BotStatusField source="bot_paused" label="Bot Status" />
+      <TripStatusField label="Trip Status" />
+      <BotStatusField label="Bot Status" />
       <DateField source="last_message_at" label="Last Message" showTime />
       <TextField source="message_count" label="Messages" />
       <ChatButton />

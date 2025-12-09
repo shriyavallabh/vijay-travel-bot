@@ -13,7 +13,6 @@ import {
   TextField,
   IconButton,
   Badge,
-  Divider,
   Chip,
   CircularProgress,
   Switch,
@@ -57,7 +56,6 @@ interface Conversation {
 const ChatBubble = ({ message }: { message: Message }) => {
   const isUser = message.sender_type === 'user';
   const isAdmin = message.sender_type === 'admin';
-  const isBot = message.sender_type === 'bot';
 
   const getBubbleColor = () => {
     if (isUser) return '#e3f2fd';

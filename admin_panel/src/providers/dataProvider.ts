@@ -101,7 +101,7 @@ export const dataProvider: DataProvider = {
 
   // Update multiple records
   updateMany: async (resource, params) => {
-    const results = await Promise.all(
+    await Promise.all(
       params.ids.map((id) =>
         httpClient(`${API_URL}/${resource}/${id}`, {
           method: 'PATCH',
@@ -115,8 +115,8 @@ export const dataProvider: DataProvider = {
   // Delete a record
   delete: async (resource, params) => {
     const url = `${API_URL}/${resource}/${params.id}`;
-    const { json } = await httpClient(url, { method: 'DELETE' });
-    return { data: params.previousData };
+    await httpClient(url, { method: 'DELETE' });
+    return { data: params.previousData! };
   },
 
   // Delete multiple records
