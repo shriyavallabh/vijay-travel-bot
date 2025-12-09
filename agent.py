@@ -9,7 +9,7 @@ from openai import OpenAI
 from knowledge_graph import TravelKnowledgeGraph
 from retriever import HybridRetriever, SearchResult
 from reranker import LLMReranker, RankedResult
-from tools.youtube_search import YouTubeSearchTool, search_youtube_videos
+from tools.serper_search import SerperSearchTool, search_web, search_youtube
 
 
 class AgentState(TypedDict):
@@ -186,13 +186,18 @@ class TravelRAGAgent:
                 "type": "function",
                 "function": {
                     "name": "web_search",
-                    "description": "Search the web for additional travel information not in the knowledge base. Use for questions about local attractions, restaurants, real-time info, or external details about destinations.",
+                    "description": "Search the web using Brave Search API for real-time information. Use for: current weather, restaurant recommendations, local attractions, opening hours, ticket prices, current events, or any information not in the knowledge base. Provides fresh, up-to-date results.",
                     "parameters": {
                         "type": "object",
                         "properties": {
                             "query": {
                                 "type": "string",
-                                "description": "Search query for web search"
+                                "description": "Search query (e.g., 'best restaurants in Jaipur', 'Amber Fort opening hours 2024')"
+                            },
+                            "count": {
+                                "type": "integer",
+                                "description": "Number of results to return (default 5, max 10)",
+                                "default": 5
                             }
                         },
                         "required": ["query"]
@@ -383,23 +388,27 @@ class TravelRAGAgent:
 
             elif tool_name == "web_search":
                 query = arguments.get("query", "")
-                # Simulate web search - in production, integrate with actual search API
+                count = arguments.get("count", 5)
+
+                # Use Serper API for real-time Google search
+                results = search_web(query, min(count, 10))
+
                 return {
                     "success": True,
                     "data": {
-                        "note": "Web search functionality - integrate with Google/Bing API for real results",
+                        "results": results,
                         "query": query,
-                        "suggestion": f"For '{query}', please check Google or local tourism websites for latest information."
+                        "count": len(results)
                     },
-                    "message": "Web search is informational only"
+                    "message": f"Found {len(results)} web results for '{query}'"
                 }
 
             elif tool_name == "youtube_search":
                 query = arguments.get("query", "")
-                max_results = arguments.get("max_results", 2)
+                max_results = arguments.get("max_results", 3)
 
-                # Use the YouTube search tool
-                videos = search_youtube_videos(query, max_results)
+                # Use Serper API for real YouTube video search
+                videos = search_youtube(query, max_results)
 
                 return {
                     "success": True,
@@ -540,7 +549,18 @@ class TravelRAGAgent:
             return f"All customers ({len(data)}):\n" + ", ".join(data)
 
         elif tool_name == "web_search":
-            return f"Web Search Result:\n{data.get('suggestion', '')}"
+            results = data.get("results", [])
+            if not results:
+                return "No web search results found."
+
+            output = f"Web Search Results for '{data.get('query', '')}':\n\n"
+            for i, result in enumerate(results, 1):
+                output += f"{i}. {result.get('title', 'Untitled')}\n"
+                if result.get('snippet'):
+                    snippet = result['snippet'][:200]
+                    output += f"   {snippet}{'...' if len(result['snippet']) > 200 else ''}\n"
+                output += f"   Link: {result.get('url', '')}\n\n"
+            return output
 
         elif tool_name == "youtube_search":
             videos = data.get("videos", [])
@@ -551,10 +571,9 @@ class TravelRAGAgent:
             for i, video in enumerate(videos, 1):
                 output += f"{i}. {video.get('title', 'Untitled')}\n"
                 output += f"   Channel: {video.get('channel', 'Unknown')}\n"
-                output += f"   Watch: {video.get('url', '')}\n"
-                if video.get('description'):
-                    output += f"   {video.get('description')[:100]}\n"
-                output += "\n"
+                if video.get('duration'):
+                    output += f"   Duration: {video.get('duration')}\n"
+                output += f"   Watch: {video.get('url', '')}\n\n"
             return output
 
         return str(data)
@@ -581,7 +600,7 @@ Guidelines:
 - Use get_business_summary for overall business metrics
 - Use get_active_travelers to see who is currently traveling
 - Use search_documents for general queries not covered by other tools
-- Use web_search only for external information not in the knowledge base
+- Use web_search for real-time information like restaurant recommendations, opening hours, ticket prices, weather, current events, or any external info not in the knowledge base
 - Use youtube_search when user asks for 'videos', 'video guides', 'visuals', 'show me', or wants to see video content about attractions or destinations
 
 Be friendly and helpful. Provide accurate information from the tools.
